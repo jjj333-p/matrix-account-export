@@ -1,7 +1,7 @@
 {
 	"name": "export",
 	"version": "0.0.1",
-	"description": "A simple matrix bot that will allow your community to vote for who to mute.",
+	"description": "Simple tool for exporting and then importing all joined rooms from an account, good for if youre gonna nuke your homeserver and start again with the same id.",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
@@ -9,11 +9,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com:jjj333-p/llama-grandma.git"
+		"url": "git+https://github.com:jjj333-p/matrix-account-export.git"
 	},
 	"author": "jjj333_p",
 	"license": "GPL-3.0",
-	"homepage": "https://github.com:jjj333-p/llama-grandma#readme",
+	"homepage": "https://github.com:jjj333-p/matrix-account-export#readme",
 	"dependencies": {
 		"@matrix-org/matrix-sdk-crypto-nodejs": "0.1.0-beta.12",
 		"axios": "^1.7.2",
